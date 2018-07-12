@@ -4,6 +4,7 @@ import math
 
 
 
+
 class Neuron:
     def __init__(self, net, index, activ_func, alfa=1, is_input=False):
         self.net = net
